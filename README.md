@@ -1,6 +1,6 @@
 # Demand Forecasting Assignment 
 
-MSc Business Analytics Assignment: 
+MSc Business Analytics Assignment: Forecasting the daily demand for lettuce in four individual restaurants of a major US fast-food chain.
 
 ## Project Description 
 
